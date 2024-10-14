@@ -1,0 +1,4 @@
+ptyhon-dotenv
+openai
+langChain
+langChain-openai
