@@ -1,4 +1,4 @@
-ptyhon-dotenv
+python-dotenv
 openai
 langChain
 langChain-openai
